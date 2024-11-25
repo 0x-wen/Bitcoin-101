@@ -1,0 +1,3 @@
+[submodule "wallet/go-wallet-sdk"]
+	path = wallet/go-wallet-sdk
+	url = git@github.com:0x-wen/go-wallet-sdk.git
